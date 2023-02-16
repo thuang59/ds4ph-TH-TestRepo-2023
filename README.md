@@ -3,7 +3,7 @@
 <!DOCTYPE>
 <HTML>
     <HEAD>
-        <TITLE> This is the web page title</TITLE>
+        <TITLE> This is the web page title </TITLE>
     </HEAD>
     <BODY>
         <H1>Heading 1</H1>
